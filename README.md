@@ -1,2 +1,2 @@
 # epicdatatable
-Epic jQuey &amp; Bootstrap Data Table
+Epic Reactor.js Data Table
